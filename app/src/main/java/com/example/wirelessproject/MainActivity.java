@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     BluetoothAdapter mBluetoothAdapter;
     RecyclerView.Adapter adapter;
     LinearLayout linearLayout;
-
+/// comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
