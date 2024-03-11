@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">wirelessProject</string>
+    <color name="blue"> #2A64B1</color>
 </resources>
